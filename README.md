@@ -58,9 +58,6 @@ Follow these steps to install the project:
 
 We welcome contributions from the community to enhance our fraud detection solution. Whether it's ideas for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing you to freely use, modify, and distribute the code, with no warranties or liabilities.
 
 ## Contact
 
