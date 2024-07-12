@@ -61,7 +61,7 @@ We welcome contributions from the community to enhance our fraud detection solut
 
 ## Contact
 
-Got questions, suggestions, or interested in collaborating? Reach out to us at theabhi.2606@gmail.com@gmail.com. We're eager to connect with fellow enthusiasts and experts in the field of fraud detection!
+Got questions, suggestions, or interested in collaborating? Reach out to us at theabhi.2606@gmail.com. We're eager to connect with fellow enthusiasts and experts in the field of fraud detection!
 
 ---
 
